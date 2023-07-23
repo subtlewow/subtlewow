@@ -11,7 +11,7 @@
   <a href="https://app.daily.dev/mchhour" target="_blank">
     <img 
       src="https://api.daily.dev/devcards/befeea80bea74739aeed234cdb37bc63.png?r=tkc" 
-      width="400" 
+      width="256" 
       align='right'
       alt="Marlon Chhour's Dev Card"
     />
