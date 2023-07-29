@@ -14,7 +14,7 @@
 ### I'm Marlon
 
 * 👨‍💻  Currently learning React, Typescript & PyTorch.
-* 🤝  Passionate about the intersection between machine learning applications & web apps.
+* 🤝  Passionate about finding new devtools!
 * 🌍  Based in New Zealand 
 * 🏫  Student @ [University of Auckland](https://www.auckland.ac.nz/en.html)
 * 🖥️  Check out my portfolio at 
